@@ -1,3 +1,10 @@
+# PromptShare
+Welcome to the prompt sharing app built with next js. With this app you could store all your favorite chatGPT prompts in one place and browse prompts of other users and copy them seamlessly which you may find useful.
+
+![image](https://github.com/Vishal-jatia/PromptShare/assets/97461410/25b2575c-24b0-4018-be04-d0643f8dd90d)
+
+[Live deployment📌](https://prompt-share-8y911c1h4-vishal-jatia.vercel.app/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
