@@ -9,6 +9,7 @@ const handler = NextAuth({
     GoogleProvider({
       clientId: process.env.CLIENT_ID,
       clientSecret: process.env.CLIENT_SECRET,
+      scope: "https://www.googleapis.com/auth/userinfo.profile",
     })
   ],
   callbacks: {
